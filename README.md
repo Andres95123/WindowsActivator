@@ -3,9 +3,8 @@ Automatic FREE Activator for Windows 11, Windows 10, Windows 8.1, Windows 8 and 
 
 A simple Windows Activator for all the times you don't have the money or the time to pay an epensive key.
 
-==============
-= HOW TO USE =
-==============
+=== HOW TO USE ===
+==================
 1. Be shure you have one of the COMPATIBLE Windows SO Version
 2. Open the Windows Cracker
 
@@ -25,9 +24,8 @@ A simple Windows Activator for all the times you don't have the money or the tim
 5. Give this app a STAR ;)
 
 
-=================
-= COMPATIBLE SO =
-=================
+=== COMPATIBLE SO ===
+=====================
 
 List:
   Windows 11    (COMPATIBLE WITH AUTOMATIC CRACKING)
