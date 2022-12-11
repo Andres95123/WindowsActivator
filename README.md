@@ -25,7 +25,9 @@ A simple Windows Activator for all the times you don't have the money or the tim
 	
 === Confirmation  ===
 
-	4. Confirm your crack selecting the option 4 (4 - Ver caducidad Windows) and seeing your key expiraation date (At this point, you have already cracked Windows Succesfully).
+	4.1. Confirm your crack selecting the option 4 (4 - Ver caducidad Windows) and seeing your key expiraation date (At this point, you have already cracked Windows Succesfully).
+	
+	4.2. You may restart to eliminate Windows WaterMark
 
 	5. Give this app a STAR ;)
 
