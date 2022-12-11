@@ -7,7 +7,7 @@ A simple Windows Activator for all the times you don't have the money or the tim
 ==================
 
 	1. Be shure you have one of the COMPATIBLE Windows SO Version
-	2. Open the Windows Cracker
+	2. Open the Windows Cracker as ADMINISTRATOR (Right click > Open as Administrator)
 
   === AUTOMATIC MODE (RECOMENDED) ===
 
