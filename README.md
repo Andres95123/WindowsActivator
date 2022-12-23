@@ -41,12 +41,12 @@ A simple Windows Activator for all the times you don't have the money or the tim
 =====================
 List
 =
-    Windows 11    (COMPATIBLE WITH AUTOMATIC CRACKING)
-    Windows 10    (COMPATIBLE WITH AUTOMATIC CRACKING)
-    Windows 8.1   (COMPATIBLE WITH AUTOMATIC CRACKING)
-    Windows 8     (COMPATIBLE WITH AUTOMATIC CRACKING)
-    Windows 7     (NOT COMPATIBLE YET)
-    Windows Vista (NOT COMPATIBLE)
+    Windows 11    	  (COMPATIBLE WITH AUTOMATIC CRACKING)
+    Windows 10    	  (COMPATIBLE WITH AUTOMATIC CRACKING)
+    Windows 8.1   	  (COMPATIBLE WITH AUTOMATIC CRACKING)
+    Windows 8     	  (COMPATIBLE WITH AUTOMATIC CRACKING)
+    Windows 7     	  (NOT COMPATIBLE YET)
+    Windows Vista 	  (NOT COMPATIBLE)
     Windows XP	  (NOT COMPATIBLE)
     Windows 98	  (NOT COMPATIBLE)
     Windows 95	  (NOT COMPATIBLE)
