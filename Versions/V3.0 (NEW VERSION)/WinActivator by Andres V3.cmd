@@ -1,6 +1,6 @@
 ::APP from GitHub repository https://github.com/Andres95123/WindowsActivator
 ::This is a OPEN SOURCE proyect, but you must give credits to the repository author.
-::Project Descontinued
+::Project Descontinued add an star if you like it
 
 @echo off
 color 1F
