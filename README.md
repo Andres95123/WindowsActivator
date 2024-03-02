@@ -57,3 +57,6 @@ Lenguage
 =
 	Spanish
 	English (DEFAULT)
+
+
+=== THIS PROJECT IS DESCONTINUED ===
